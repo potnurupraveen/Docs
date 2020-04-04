@@ -1,1 +1,3 @@
 Azure Functions
+Important links:
+https://github.com/Azure-Samples/azure-batch-samples
