@@ -1,3 +1,4 @@
 
-VPN - Virtual private network
+VPN - Virtual private network 
+
 IKE - Internet key exchange
